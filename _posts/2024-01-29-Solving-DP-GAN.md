@@ -5,7 +5,7 @@ It has found applications in various fields, including economics, engineering, a
 However, solving dynamic programming problems for large-scale instances can be computationally intensive and time-consuming.
 
 In recent years, there has been growing interest in leveraging the capabilities of machine learning, particularly Neural Networks, to tackle complex optimization problems.
-These networks are known for their ability to learn complex distributions, have shown promise in addressing optimization challenges.
+These networks are known for their ability to learn complex distributions, and have shown promise in addressing optimization challenges.
 
 This blog explores the intersection of dynamic programming and GANs, demonstrating how GANs can be used to optimize dynamic programming problems. We will delve into the concept of using GANs to approximate solutions to dynamic programming problems, particularly in scenarios where traditional dynamic programming approaches face scalability and efficiency challenges.
 
