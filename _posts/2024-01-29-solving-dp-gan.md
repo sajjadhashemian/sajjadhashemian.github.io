@@ -1,4 +1,4 @@
-# Solving dynamic Dynamic Programming Problems with Generative Adversarial Networks
+# Solving  Dynamic Programming Problems with Generative Adversarial Networks
 
 Dynamic programming is a powerful technique used to solve optimization problems by breaking them down into simpler subproblems. 
 It has found applications in various fields, including economics, engineering, and computer science.
